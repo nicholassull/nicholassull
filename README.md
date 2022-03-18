@@ -9,7 +9,6 @@
 💬 I'd love to connect about **internships**!  <br />
 
 📜 Fun fact: If I'm not programming, I'm tending to my saltwater fish & coral tank.<br /> <br />
-<<<<<<< HEAD
 
 ### 🛠 Skill Set
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -29,5 +28,3 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=nicholassull&show_icons=true&theme=dark" />
 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholassull&layout=compact&theme=dark" />
-=======
->>>>>>> 2dd9a61d978d24e4e35d3efb7860e904ab5c9f58
