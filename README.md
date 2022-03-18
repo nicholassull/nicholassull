@@ -7,6 +7,4 @@
 📜 Fun fact: If I'm not programming, I'm tending to my saltwater fish & coral tank.<br /> <br />
 
 <h3>🛠 Skill Set</h3>
-! [JavaScript] (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
