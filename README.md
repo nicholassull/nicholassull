@@ -5,6 +5,3 @@
 📒 I'm studying at <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> - building a strong foundation as a full-stack developer. <br />
 🌱 I'm currently learning ASP.NET, SQL, and Entity Framework. <br />
 📜 Fun fact: If I'm not programming, I'm tending to my saltwater fish & coral tank.<br /> <br />
-
-<h3>🛠 Skill Set</h3>
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
