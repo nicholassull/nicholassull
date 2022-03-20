@@ -4,6 +4,7 @@
 💡 Learning new skills and working with others to overcome challenges is what brings me joy. <br/>
 
 📒 I'm studying at <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> - building a strong foundation as a full-stack developer. <br />
+
 🌱 I'm currently learning ASP.NET, SQL, and Entity Framework. <br />
 
 💬 I'd love to connect about **internships**!  <br />
