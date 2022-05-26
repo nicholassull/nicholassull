@@ -5,7 +5,7 @@
 
 📒 I'm studying at <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> - building a strong foundation as a full-stack developer. <br />
 
-🌱 I'm currently learning ASP.NET, SQL, and Entity Framework. <br />
+🌱 I'm currently learning React. <br />
 
 💬 I'd love to connect about **internships**!  <br />
 
